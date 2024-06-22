@@ -14,7 +14,7 @@ spring:
     config:
       server:
         git:
-          url: https://github.com/liarreez/bookstore
+          uri: https://github.com/liarreez/bookstore
           default-label: main
           timeout: 5
           clone-on-start: true
